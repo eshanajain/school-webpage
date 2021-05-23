@@ -18,3 +18,10 @@ p{
     top: 0;
     z-index: 99999;
 }
+#educational program{
+    font-size: 40px;
+    font-family:inherit
+}
+p{
+    font-size: 20px;
+}
